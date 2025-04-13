@@ -1,3 +1,4 @@
+#Day 4
 import random
 
 person_paying = random.randint(0,4)
